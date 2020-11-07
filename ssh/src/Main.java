@@ -14,5 +14,6 @@ public class Main {
     }
     public void add(){
         int i=1;
+        System.out.println("i");
     }
 }
