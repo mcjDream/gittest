@@ -12,4 +12,7 @@ public class Main {
         System.out.println("Hello git World!");
         System.out.println("Hello git World!");
     }
+    public void add(){
+        int i=1;
+    }
 }
